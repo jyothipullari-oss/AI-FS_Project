@@ -1,4 +1,9 @@
 Flask
-pandas
-numpy
-scikit-learntype 
+streamlit>=1.40,<2
+sentence-transformers>=5,<7
+chromadb>=1.0,<2
+pypdf>=6,<7
+ollama>=0.6,<1
+pandas>=2.2,<4
+scikit-learn>=1.5,<2
+
